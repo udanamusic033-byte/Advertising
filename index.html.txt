@@ -1,0 +1,25 @@
+Your complete website is built and verified. Here's what I created for **Kasun Advertising Pvt Ltd**:
+
+## Files Delivered
+
+**`index.html`** — Semantic, SEO-optimized HTML with meta title/description, OG tags, and all 11 sections: sticky navbar with hamburger menu, animated hero, about with stats, 8 service cards, filterable portfolio (14 projects, 6 categories), why-choose-us, 4-step process timeline, testimonials, call-to-action, contact form with embedded Google Map, and a full footer.
+
+**`style.css`** — Premium black / white / gold design system featuring Poppins typography, gradient gold buttons, card hover lifts, scroll-reveal animations, a slow Ken Burns hero zoom, dotted process timeline, glassmorphism sticky nav, and full responsiveness across desktop, tablet, and mobile breakpoints.
+
+**`script.js`** — Vanilla JS with all requested functionality:
+- Sticky navbar + back-to-top button
+- Mobile slide-in menu
+- Active nav link highlighting while scrolling
+- IntersectionObserver scroll animations
+- Animated counters (ease-out cubic, counts up when visible)
+- Portfolio category filtering with pop-in animation
+- Lightbox with prev/next navigation and keyboard support (Esc, arrows)
+- Full form validation (name, phone, email, service, message) with inline error messages and a simulated async submit
+- Floating pulsing WhatsApp button
+
+**`images/`** — 18 real placeholder images downloaded locally (billboards, sign boards, vehicle wraps, large-format printers, branding work, social media ads), so the site loads fast with no external image dependencies.
+
+Just open `index.html` in a browser — no build step or server needed. Replace the placeholder phone numbers (`+94 XX XXX XXXX`), address, and WhatsApp links with real details before going live.
+
+
+
